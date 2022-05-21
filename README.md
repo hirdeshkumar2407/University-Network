@@ -15,5 +15,4 @@
 
 
 ## Data Communication and Computer Networks Theory Project
-This project was assigned to us by course instructor Naveed Ghani as our course project. In this project, we implemented SZABIST UNIVERSITY Karachi's Campus 100, 153,and 154 on
-Cisco Packet Tracer. We used protcols such as Telnet, DHCP, inter-VLAN routing and Router Rip.
+In this project, we implemented SZABIST University Karachi's Campus 100, 153, and 154 on Cisco Packet Tracer. We used protocols such as Telnet, DHCP, inter-VLAN routing, and Router Rip. 
